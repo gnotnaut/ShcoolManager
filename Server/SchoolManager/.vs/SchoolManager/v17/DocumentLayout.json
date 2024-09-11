@@ -1,0 +1,318 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODE\\AngularAndAsp\\SchoolManager\\Server\\SchoolManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F909EFB-3034-450D-B0FC-163F8DF513BC}|SchoolManager\\SchoolManager.csproj|d:\\code\\angularandasp\\schoolmanager\\server\\schoolmanager\\schoolmanager\\controllers\\sinhviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F909EFB-3034-450D-B0FC-163F8DF513BC}|SchoolManager\\SchoolManager.csproj|solutionrelative:schoolmanager\\controllers\\sinhviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F909EFB-3034-450D-B0FC-163F8DF513BC}|SchoolManager\\SchoolManager.csproj|d:\\code\\angularandasp\\schoolmanager\\server\\schoolmanager\\schoolmanager\\service\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F909EFB-3034-450D-B0FC-163F8DF513BC}|SchoolManager\\SchoolManager.csproj|solutionrelative:schoolmanager\\service\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F909EFB-3034-450D-B0FC-163F8DF513BC}|SchoolManager\\SchoolManager.csproj|d:\\code\\angularandasp\\schoolmanager\\server\\schoolmanager\\schoolmanager\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F909EFB-3034-450D-B0FC-163F8DF513BC}|SchoolManager\\SchoolManager.csproj|solutionrelative:schoolmanager\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F909EFB-3034-450D-B0FC-163F8DF513BC}|SchoolManager\\SchoolManager.csproj|d:\\code\\angularandasp\\schoolmanager\\server\\schoolmanager\\schoolmanager\\models\\ketqua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F909EFB-3034-450D-B0FC-163F8DF513BC}|SchoolManager\\SchoolManager.csproj|solutionrelative:schoolmanager\\models\\ketqua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F909EFB-3034-450D-B0FC-163F8DF513BC}|SchoolManager\\SchoolManager.csproj|d:\\code\\angularandasp\\schoolmanager\\server\\schoolmanager\\schoolmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F909EFB-3034-450D-B0FC-163F8DF513BC}|SchoolManager\\SchoolManager.csproj|solutionrelative:schoolmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F909EFB-3034-450D-B0FC-163F8DF513BC}|SchoolManager\\SchoolManager.csproj|d:\\code\\angularandasp\\schoolmanager\\server\\schoolmanager\\schoolmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7F909EFB-3034-450D-B0FC-163F8DF513BC}|SchoolManager\\SchoolManager.csproj|solutionrelative:schoolmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F909EFB-3034-450D-B0FC-163F8DF513BC}|SchoolManager\\SchoolManager.csproj|d:\\code\\angularandasp\\schoolmanager\\server\\schoolmanager\\schoolmanager\\controllers\\ketquacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F909EFB-3034-450D-B0FC-163F8DF513BC}|SchoolManager\\SchoolManager.csproj|solutionrelative:schoolmanager\\controllers\\ketquacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F909EFB-3034-450D-B0FC-163F8DF513BC}|SchoolManager\\SchoolManager.csproj|d:\\code\\angularandasp\\schoolmanager\\server\\schoolmanager\\schoolmanager\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7F909EFB-3034-450D-B0FC-163F8DF513BC}|SchoolManager\\SchoolManager.csproj|solutionrelative:schoolmanager\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F909EFB-3034-450D-B0FC-163F8DF513BC}|SchoolManager\\SchoolManager.csproj|d:\\code\\angularandasp\\schoolmanager\\server\\schoolmanager\\schoolmanager\\schoolmanager.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7F909EFB-3034-450D-B0FC-163F8DF513BC}|SchoolManager\\SchoolManager.csproj|solutionrelative:schoolmanager\\schoolmanager.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F909EFB-3034-450D-B0FC-163F8DF513BC}|SchoolManager\\SchoolManager.csproj|d:\\code\\angularandasp\\schoolmanager\\server\\schoolmanager\\schoolmanager\\controllers\\monhoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F909EFB-3034-450D-B0FC-163F8DF513BC}|SchoolManager\\SchoolManager.csproj|solutionrelative:schoolmanager\\controllers\\monhoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F909EFB-3034-450D-B0FC-163F8DF513BC}|SchoolManager\\SchoolManager.csproj|d:\\code\\angularandasp\\schoolmanager\\server\\schoolmanager\\schoolmanager\\models\\monhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F909EFB-3034-450D-B0FC-163F8DF513BC}|SchoolManager\\SchoolManager.csproj|solutionrelative:schoolmanager\\models\\monhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F909EFB-3034-450D-B0FC-163F8DF513BC}|SchoolManager\\SchoolManager.csproj|d:\\code\\angularandasp\\schoolmanager\\server\\schoolmanager\\schoolmanager\\models\\dto\\ketquadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F909EFB-3034-450D-B0FC-163F8DF513BC}|SchoolManager\\SchoolManager.csproj|solutionrelative:schoolmanager\\models\\dto\\ketquadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F909EFB-3034-450D-B0FC-163F8DF513BC}|SchoolManager\\SchoolManager.csproj|d:\\code\\angularandasp\\schoolmanager\\server\\schoolmanager\\schoolmanager\\models\\dto\\monhocdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F909EFB-3034-450D-B0FC-163F8DF513BC}|SchoolManager\\SchoolManager.csproj|solutionrelative:schoolmanager\\models\\dto\\monhocdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F909EFB-3034-450D-B0FC-163F8DF513BC}|SchoolManager\\SchoolManager.csproj|d:\\code\\angularandasp\\schoolmanager\\server\\schoolmanager\\schoolmanager\\models\\dto\\sinhviendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F909EFB-3034-450D-B0FC-163F8DF513BC}|SchoolManager\\SchoolManager.csproj|solutionrelative:schoolmanager\\models\\dto\\sinhviendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F909EFB-3034-450D-B0FC-163F8DF513BC}|SchoolManager\\SchoolManager.csproj|d:\\code\\angularandasp\\schoolmanager\\server\\schoolmanager\\schoolmanager\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F909EFB-3034-450D-B0FC-163F8DF513BC}|SchoolManager\\SchoolManager.csproj|solutionrelative:schoolmanager\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F909EFB-3034-450D-B0FC-163F8DF513BC}|SchoolManager\\SchoolManager.csproj|d:\\code\\angularandasp\\schoolmanager\\server\\schoolmanager\\schoolmanager\\migrations\\20240809092052_databaseadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F909EFB-3034-450D-B0FC-163F8DF513BC}|SchoolManager\\SchoolManager.csproj|solutionrelative:schoolmanager\\migrations\\20240809092052_databaseadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 181,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 331,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CODE\\AngularAndAsp\\SchoolManager\\Server\\SchoolManager\\SchoolManager\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolManager\\Program.cs",
+              "ToolTip": "D:\\CODE\\AngularAndAsp\\SchoolManager\\Server\\SchoolManager\\SchoolManager\\Program.cs",
+              "RelativeToolTip": "SchoolManager\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T08:53:18.007Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\CODE\\AngularAndAsp\\SchoolManager\\Server\\SchoolManager\\SchoolManager\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SchoolManager\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\CODE\\AngularAndAsp\\SchoolManager\\Server\\SchoolManager\\SchoolManager\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SchoolManager\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-20T04:03:39.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SchoolManager.http",
+              "DocumentMoniker": "D:\\CODE\\AngularAndAsp\\SchoolManager\\Server\\SchoolManager\\SchoolManager\\SchoolManager.http",
+              "RelativeDocumentMoniker": "SchoolManager\\SchoolManager.http",
+              "ToolTip": "D:\\CODE\\AngularAndAsp\\SchoolManager\\Server\\SchoolManager\\SchoolManager\\SchoolManager.http",
+              "RelativeToolTip": "SchoolManager\\SchoolManager.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-20T04:02:43.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\CODE\\AngularAndAsp\\SchoolManager\\Server\\SchoolManager\\SchoolManager\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "SchoolManager\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\CODE\\AngularAndAsp\\SchoolManager\\Server\\SchoolManager\\SchoolManager\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "SchoolManager\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwBkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:50:47.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KetQuaController.cs",
+              "DocumentMoniker": "D:\\CODE\\AngularAndAsp\\SchoolManager\\Server\\SchoolManager\\SchoolManager\\Controllers\\KetQuaController.cs",
+              "RelativeDocumentMoniker": "SchoolManager\\Controllers\\KetQuaController.cs",
+              "ToolTip": "D:\\CODE\\AngularAndAsp\\SchoolManager\\Server\\SchoolManager\\SchoolManager\\Controllers\\KetQuaController.cs",
+              "RelativeToolTip": "SchoolManager\\Controllers\\KetQuaController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwAwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:45:00.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MonHocController.cs",
+              "DocumentMoniker": "D:\\CODE\\AngularAndAsp\\SchoolManager\\Server\\SchoolManager\\SchoolManager\\Controllers\\MonHocController.cs",
+              "RelativeDocumentMoniker": "SchoolManager\\Controllers\\MonHocController.cs",
+              "ToolTip": "D:\\CODE\\AngularAndAsp\\SchoolManager\\Server\\SchoolManager\\SchoolManager\\Controllers\\MonHocController.cs",
+              "RelativeToolTip": "SchoolManager\\Controllers\\MonHocController.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAowGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:44:34.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SinhVienController.cs",
+              "DocumentMoniker": "D:\\CODE\\AngularAndAsp\\SchoolManager\\Server\\SchoolManager\\SchoolManager\\Controllers\\SinhVienController.cs",
+              "RelativeDocumentMoniker": "SchoolManager\\Controllers\\SinhVienController.cs",
+              "ToolTip": "D:\\CODE\\AngularAndAsp\\SchoolManager\\Server\\SchoolManager\\SchoolManager\\Controllers\\SinhVienController.cs",
+              "RelativeToolTip": "SchoolManager\\Controllers\\SinhVienController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwBwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:44:10.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240809092052_DatabaseAdd.cs",
+              "DocumentMoniker": "D:\\CODE\\AngularAndAsp\\SchoolManager\\Server\\SchoolManager\\SchoolManager\\Migrations\\20240809092052_DatabaseAdd.cs",
+              "RelativeDocumentMoniker": "SchoolManager\\Migrations\\20240809092052_DatabaseAdd.cs",
+              "ToolTip": "D:\\CODE\\AngularAndAsp\\SchoolManager\\Server\\SchoolManager\\SchoolManager\\Migrations\\20240809092052_DatabaseAdd.cs",
+              "RelativeToolTip": "SchoolManager\\Migrations\\20240809092052_DatabaseAdd.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAQwFMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:20:52.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CODE\\AngularAndAsp\\SchoolManager\\Server\\SchoolManager\\SchoolManager\\appsettings.json",
+              "RelativeDocumentMoniker": "SchoolManager\\appsettings.json",
+              "ToolTip": "D:\\CODE\\AngularAndAsp\\SchoolManager\\Server\\SchoolManager\\SchoolManager\\appsettings.json",
+              "RelativeToolTip": "SchoolManager\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-09T09:10:31.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "KetQuaDTO.cs",
+              "DocumentMoniker": "D:\\CODE\\AngularAndAsp\\SchoolManager\\Server\\SchoolManager\\SchoolManager\\Models\\DTO\\KetQuaDTO.cs",
+              "RelativeDocumentMoniker": "SchoolManager\\Models\\DTO\\KetQuaDTO.cs",
+              "ToolTip": "D:\\CODE\\AngularAndAsp\\SchoolManager\\Server\\SchoolManager\\SchoolManager\\Models\\DTO\\KetQuaDTO.cs",
+              "RelativeToolTip": "SchoolManager\\Models\\DTO\\KetQuaDTO.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:02:02.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MonHocDTO.cs",
+              "DocumentMoniker": "D:\\CODE\\AngularAndAsp\\SchoolManager\\Server\\SchoolManager\\SchoolManager\\Models\\DTO\\MonHocDTO.cs",
+              "RelativeDocumentMoniker": "SchoolManager\\Models\\DTO\\MonHocDTO.cs",
+              "ToolTip": "D:\\CODE\\AngularAndAsp\\SchoolManager\\Server\\SchoolManager\\SchoolManager\\Models\\DTO\\MonHocDTO.cs",
+              "RelativeToolTip": "SchoolManager\\Models\\DTO\\MonHocDTO.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwBIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:01:50.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SinhVienDTO.cs",
+              "DocumentMoniker": "D:\\CODE\\AngularAndAsp\\SchoolManager\\Server\\SchoolManager\\SchoolManager\\Models\\DTO\\SinhVienDTO.cs",
+              "RelativeDocumentMoniker": "SchoolManager\\Models\\DTO\\SinhVienDTO.cs",
+              "ToolTip": "D:\\CODE\\AngularAndAsp\\SchoolManager\\Server\\SchoolManager\\SchoolManager\\Models\\DTO\\SinhVienDTO.cs",
+              "RelativeToolTip": "SchoolManager\\Models\\DTO\\SinhVienDTO.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:01:36.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\CODE\\AngularAndAsp\\SchoolManager\\Server\\SchoolManager\\SchoolManager\\Service\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SchoolManager\\Service\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\CODE\\AngularAndAsp\\SchoolManager\\Server\\SchoolManager\\SchoolManager\\Service\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SchoolManager\\Service\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAcwBwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T08:56:25.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KetQua.cs",
+              "DocumentMoniker": "D:\\CODE\\AngularAndAsp\\SchoolManager\\Server\\SchoolManager\\SchoolManager\\Models\\KetQua.cs",
+              "RelativeDocumentMoniker": "SchoolManager\\Models\\KetQua.cs",
+              "ToolTip": "D:\\CODE\\AngularAndAsp\\SchoolManager\\Server\\SchoolManager\\SchoolManager\\Models\\KetQua.cs",
+              "RelativeToolTip": "SchoolManager\\Models\\KetQua.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T08:55:24.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MonHoc.cs",
+              "DocumentMoniker": "D:\\CODE\\AngularAndAsp\\SchoolManager\\Server\\SchoolManager\\SchoolManager\\Models\\MonHoc.cs",
+              "RelativeDocumentMoniker": "SchoolManager\\Models\\MonHoc.cs",
+              "ToolTip": "D:\\CODE\\AngularAndAsp\\SchoolManager\\Server\\SchoolManager\\SchoolManager\\Models\\MonHoc.cs",
+              "RelativeToolTip": "SchoolManager\\Models\\MonHoc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T08:54:51.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "D:\\CODE\\AngularAndAsp\\SchoolManager\\Server\\SchoolManager\\SchoolManager\\Models\\SinhVien.cs",
+              "RelativeDocumentMoniker": "SchoolManager\\Models\\SinhVien.cs",
+              "ToolTip": "D:\\CODE\\AngularAndAsp\\SchoolManager\\Server\\SchoolManager\\SchoolManager\\Models\\SinhVien.cs",
+              "RelativeToolTip": "SchoolManager\\Models\\SinhVien.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T08:54:35.051Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
